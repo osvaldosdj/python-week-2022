@@ -1,1 +1,5 @@
-name = "beerlog"
+name = "inadiplente"
+
+
+[database]
+url = "sqlite:///inadiplentes.db"
